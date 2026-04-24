@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "ecoruteando-mobile",
+    "slug": "ecoruteando-mobile",
+    "version": "1.0.0",
+    "scheme": "ecoruteando",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

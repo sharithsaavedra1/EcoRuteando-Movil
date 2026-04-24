@@ -11,8 +11,10 @@
   "dependencies": {
     "@tanstack/react-query": "^5.0.0",
     "@types/react": "~19.1.10",
+    "agent-base": "^9.0.0",
     "axios": "^1.6.0",
     "expo": "^54.0.0",
+    "expo-linking": "~8.0.11",
     "expo-location": "~19.0.8",
     "expo-router": "~6.0.23",
     "expo-secure-store": "~15.0.8",
